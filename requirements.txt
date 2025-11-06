@@ -1,0 +1,6 @@
+# Dependências do Energy Quest
+# Jogo de plataforma desenvolvido com Pygame Zero
+
+pgzero>=1.2
+pygame>=2.1.0
+
